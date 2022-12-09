@@ -271,7 +271,7 @@ MODAL
     transform: translate(-50%, -50%);
     width: 90%;
     max-width: 1100px;
-    height: 700px;
+    height: 600px;
     box-shadow: 0 20px 80px 0 rgb(0, 0, 0, 0.5);
     border-radius: 20px;
     overflow: hidden;
@@ -291,7 +291,7 @@ MODAL
 }
 
 .modal__title {
-    font-size: 36px;
+    font-size: 28px;
 }
 
 .modal__sub-title {
@@ -300,8 +300,8 @@ MODAL
 }
 
 .modal__para {
-    max-width: 80%;
-    font-size: 18px;
+    max-width: 100%;
+    font-size: 16px;
     margin-bottom: 12px;
     line-height: 2;
 }
